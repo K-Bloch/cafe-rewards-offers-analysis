@@ -26,16 +26,16 @@ Key findings include:
 
 ### Completion Rates
 
-- **Total Interactions**: 66,496 offers were received, and 41,941 were completed (~63% completion rate).
+- **Total Interactions**: 66,496 offers were received, and 41,567 were completed (~63% completion rate).
 - **Informational Offers**:
   - Informational_2 excelled with a 93% completion rate.
   - Informational_1 performed poorly, with a 50% completion rate.
   - Informational offers have a short 3-day window for completion, therefore their long-term impact on purchases can't be reliably measured. Customers may interact with these campaigns beyond the 3-day window.
 - **Discount Offers**: 
   - Discount_3 achieved the highest success at 75% completion.
-  - Discount_1 was weaker at 50%.
+  - Discount_1 was weaker at 49%.
 - **BOGO Offers**:
-  - These had the overall lowest completion rate (57%), with Bogo_2 standing out as particularly weak.
+  - These had the overall lowest completion rate (57%), with Bogo_2 standing out as particularly weak (50%).
 
 ### Customer Demographics
 
@@ -44,11 +44,11 @@ Key findings include:
    - Best performance with customers aged 55–64.
    - Most completions came from the 45–54 age group.
 2. **Discount Offers**:
-   - Lowest engagement from customers under 34.
+   - Lowest engagement from customers aged 34 and younger.
    - High and consistent redemption rates from customers aged 45 and older.
 3. **Informational Offers**:
    - Highest completion rates in customers aged 18–34.
-   - The 45–54 age group completed the most offers numerically.
+   - The 45–54 age group were the biggest group who interacted with this offer.
 
 ---
 
