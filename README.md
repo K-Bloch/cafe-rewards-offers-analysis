@@ -1,6 +1,7 @@
 # Cafe Rewards Program: Interaction Patterns and Completion Rates
 
 All technical steps and visualizations are documented in the accompanying [Jupyter Notebook](notebooks/cafe-rewards-program-interaction-patterns-and-completion-rates-final.ipynb).
+_If the notebook doesn't render for you, check out the [pdf printout](notebooks/cafe-rewards-program-interaction-patterns-and-completion-rates-final.pdf)._
 
 ## Project Background
 
